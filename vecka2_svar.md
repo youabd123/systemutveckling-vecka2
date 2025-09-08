@@ -15,7 +15,7 @@ Ett Git-commit är som en sparpunkt i projektet där man skriver vad man ändrat
 
 Till exempel om jag jobbar på en app och ändrar i inloggningen. Om det plötsligt slutar funka kan jag gå tillbaka till commiten innan och få tillbaka versionen som fungerade. Det sparar tid och man slipper gissa sig fram och krångla till det.  
 
----
+--- (uppdatera fråga 2 via en branch)
 
 ## 3. Samarbete i GitHub
 Samarbete i GitHub handlar om att flera kan jobba i samma projekt utan att trampa på varandra. Man gör det genom att skapa en branch, som är som en egen kopia där man kan jobba med sin del. När man är klar öppnar man en pull request för att visa vad man gjort. Då kan andra kolla, kommentera och godkänna.  
