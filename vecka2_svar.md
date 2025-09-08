@@ -8,7 +8,7 @@ Agil modellen fungerar mer stegvis. Man börjar med en enklare version och jobba
 
 Skillnaden är alltså att vattenfall är fast och linjärt, medan agilt är flexibelt och levererar små förbättringar löpande. Själv hade jag valt agilt i de flesta IT-projekt eftersom det är bättre att kunna ändra och förbättra längs vägen än att låsa sig vid en plan och av egen erfarenhet av att använda olika plattformar.  
 
----
+--- (uppdatera fråga 1 via en branch)
 
 ## 2. Git-commit
 Ett Git-commit är som en sparpunkt i projektet där man skriver vad man ändrat. Det gör att man har koll på historiken och kan gå tillbaka om något blir fel.  
