@@ -19,3 +19,4 @@ Till exempel om jag jobbar på en app och ändrar i inloggningen. Om det plötsl
 
 ## 3. Samarbete i GitHub
 Samarbete i GitHub handlar om att flera kan jobba i samma projekt utan att trampa på varandra. Man gör det genom att skapa en branch, som är som en egen kopia där man kan jobba med sin del. När man är klar öppnar man en pull request för att visa vad man gjort. Då kan andra kolla, kommentera och godkänna.  
+--- (uppdatera fråga 3 via en branch)
